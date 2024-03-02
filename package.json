@@ -6,11 +6,33 @@
     "start": "next start"
   },
   "dependencies": {
+    "@editorjs/editorjs": "^2.29.0",
+    "@editorjs/paragraph": "^2.11.3",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@mui/icons-material": "^5.15.11",
+    "@mui/joy": "^5.0.0-beta.29",
+    "@mui/lab": "^5.0.0-alpha.166",
+    "@mui/material": "^5.15.11",
+    "@mui/material-next": "^6.0.0-alpha.124",
+    "axios": "^1.6.7",
+    "bootstrap": "^4.6.2",
+    "chart.js": "^4.4.2",
+    "draft-js": "^0.11.7",
     "next": "latest",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^0.32.4",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-editor-js": "^2.1.0",
+    "react-rich-text-editor": "^2.1.2"
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "@editorjs/checklist": "^1.6.0"
   }
 }
